@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name" translatable="false">First App</string>
+    <string name="titulo_app" translatable="false">Hello World</string>
+    <string name="button1" translatable="false">Button</string>
+    <string name="holaaaaa" translatable="false">Text for app</string>
+</resources>
